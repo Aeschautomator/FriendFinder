@@ -25,10 +25,10 @@
     "friend-match",
     "compatibility"
   ],
-  "author": "Anna D Derbakova",
+  "author": "Alex Esch",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/friend-finder/issues"
+    "url": "https://github.com/hodrakai"
   },
-  "homepage": "https://github.com/angrbrd/friend-finder#readme"
+  "homepage": "https://github.com/hordakai/friend-finder#readme"
 }
